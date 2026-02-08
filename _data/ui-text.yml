@@ -21,9 +21,9 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
+  follow_label               : "Follow"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  powered_by                 : 
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
@@ -71,7 +71,7 @@ es: &DEFAULT_ES
   related_label              : "Quizás te interese"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
-  powered_by                 : "Creado por"
+  powered_by                 : 
   website_label              : "Sitio web"
   email_label                : "Correo"
   recent_posts               : "Entradas recientes"
@@ -115,7 +115,7 @@ fr: &DEFAULT_FR
   related_label              : "Vous pourriez aimer"
   follow_label               : "Suivez moi"
   feed_label                 : "Flux"
-  powered_by                 : "Propulsé par"
+  powered_by                 : 
   website_label              : "Site"
   email_label                : "Email"
   recent_posts               : "Posts récents"
@@ -161,7 +161,7 @@ tr: &DEFAULT_TR
   related_label              : "Bunlar ilginizi çekebilir:"
   follow_label               : "Takip et:"
   feed_label                 : "RSS"
-  powered_by                 : "Emeği geçenler: "
+  powered_by                 : 
   website_label              : "Web sayfası"
   email_label                : "E-posta"
   recent_posts               : "Son yazılar"
@@ -203,7 +203,7 @@ pt: &DEFAULT_PT
   related_label              : "Talvez Você Goste Também"
   follow_label               : "Acompanhe em"
   feed_label                 : "Feed"
-  powered_by                 : "Feito por"
+  powered_by                 : 
   website_label              : "Site"
   email_label                : "E-mail"
   recent_posts               : "Postagens recentes"
@@ -247,7 +247,7 @@ it: &DEFAULT_IT
   related_label              : "Potrebbe Piacerti Anche"
   follow_label               : "Segui:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  powered_by                 : 
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Articoli Recenti"
@@ -289,7 +289,7 @@ zh: &DEFAULT_ZH
   related_label              : "你可能感兴趣的"
   follow_label               : "关注："
   feed_label                 : "打赏"
-  powered_by                 : "技术支持："
+  powered_by                 : 
   website_label              : "网站"
   email_label                : "电子邮件"
   recent_posts               : "最新文章"
@@ -331,7 +331,7 @@ zh-HK: &DEFAULT_ZH_HK
   related_label              : "你可能感興趣的"
   follow_label               : "關注："
   feed_label                 : "打賞"
-  powered_by                 : "技術支持："
+  powered_by                 : 
   website_label              : "網站"
   email_label                : "電子郵件"
   recent_posts               : "最新文章"

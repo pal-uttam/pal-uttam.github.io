@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Uttam Pal"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Civil Engineering (Construction Management) at the University of Wyoming, working on construction safety, ergonomics, and data-driven methods."
+  bio              : "Ph.D. student in Civil Engineering (Construction Management)"
   location         : "Laramie, WY, United States"
   employer         : "University of Wyoming"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : "https://www.facebook.com/uttampal3206" # Username
   flickr           : # Username
   foursquare       : # Username
@@ -262,8 +262,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -272,8 +272,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
+      comments: false
+  # _trainings
   - scope:
       path: ""
       type: portfolio
