@@ -14,20 +14,22 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching/Coursework"
     url: /teaching/    
     
-  - title: "Trainings"
+  - title: "Professional Development"
     url: /portfolio/
         
+  - title: "Awards/Grants"
+    url: /markdown/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+ 
   - title: "CV"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Awards/Grants"
-    url: /markdown/
+
