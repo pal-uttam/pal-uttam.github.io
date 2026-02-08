@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Comparative Analysis of Regulatory Compliance and Legal Issues in Small Modular Nuclear Reactor Deployment<br />Graduate Poster Symposium, University of Wyoming; Laramie, WY, USA",
+    41.3116442,
+    -105.5917876
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Sustainable Nuclear Solutions: Safety Insights into Micro and Small Modular Reactors<br />Wyoming\u2019s Energy Future Symposium; Laramie, WY, USA",
+    41.3116442,
+    -105.5917876
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "A Multi-Output Regression Approach to Predicting Gender-Centric Workplace Fatal Accidents<br />Construction Safety Conference; Lawrence, KS, USA",
+    38.9719137,
+    -95.2359403
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Comparative Analysis of Regulatory Compliance and Legal Issues in Small Modular Nuclear Reactor Deployment<br />Construction Institute Summit; Costa Mesa, CA, USA",
+    33.6633386,
+    -117.903317
+  ],
+  [
+    "Comparative Analysis of Regulatory Compliance and Legal Issues in Small Modular Nuclear Reactor Deployment<br />Three-Minute Thesis Competition, University of Wyoming; Laramie, WY, USA",
+    41.3116442,
+    -105.5917876
   ]
 ];
