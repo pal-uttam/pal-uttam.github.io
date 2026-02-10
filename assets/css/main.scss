@@ -83,3 +83,72 @@ h1, h2, h3, h4, h5, h6 {
 .page__content p {
   margin-bottom: 0.9em;
 }
+/* Navigation bar title size */
+.greedy-nav a {
+  font-size: 1.05rem;
+}
+/* =========================================================
+   Sidebar Author Profile — FINAL Uniform Fix (No Exceptions)
+   ========================================================= */
+
+/* Scope ONLY to the author sidebar */
+.sidebar .author__content {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* ---------- Name ---------- */
+.sidebar .author__name {
+  font-size: 1.15rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 0.01em !important;
+}
+
+/* ---------- Bio (Ph.D. student …) ---------- */
+.sidebar .author__bio {
+  font-size: 0.6rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5em !important; /* space before affiliations */
+}
+
+/* ---------- ALL affiliations & social links ---------- */
+.sidebar .author__urls li {
+  margin-bottom: 0.3em !important;
+  line-height: 1.2 !important;
+}
+
+/* Normalize text for BOTH span (location/employer) and a (links) */
+.sidebar .author__urls li span,
+.sidebar .author__urls li a {
+  font-size: 0.7rem !important;
+  line-height: 1.2 !important;
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Normalize icon size */
+.sidebar .author__urls li i {
+  font-size: 0.7rem !important;
+}
+
+/* =========================================
+   Publications: fix unintended full italics
+   ========================================= */
+
+/* Reset container-level italics */
+.layout--archive .archive__item-excerpt,
+.layout--archive .archive__item {
+  font-style: normal !important;
+}
+
+/* Re-enable semantic italics ONLY where marked */
+.layout--archive em,
+.layout--archive i {
+  font-style: italic;
+}
+/* =========================================
+   Publications: force Times New Roman titles
+   ========================================= */
+
+.layout--archive .archive__item-title,
+.layout--archive .archive__item-title a {
+  font-family: "Times New Roman", Times, serif !important;
+}
