@@ -5,45 +5,47 @@ author_profile: true
 meta: false
 date: null
 header: false
-title: "Teaching & Coursework"
+title:
 ---
 
-## Teaching Experience
+# Teaching Experience
 
-- **Guest Lecturing and Academic Support**  
-  Supported course activities, mentoring, and academic discussions in construction management and safety-related topics.
+## Engineering Drawing (Undergraduate Level)  
+Institute of Engineering, Pulchowk Campus, Tribhuvan University, Nepal  
+*Winter 2020 (One-Month Instructional Session)*  
 
-- **Academic Presentations and Instructional Activities**  
-  Delivered research-informed technical presentations and instructional content in academic and professional settings.
+Delivered supplemental instruction in Engineering Drawing to first-year civil engineering students, covering technical drawing principles, geometric construction, and projection techniques.
 
-## Coursework
+**Key learning outcomes:**
 
-### Construction Management
-**Courses:**  
-- Construction Planning and Scheduling  
-- Construction Safety Engineering  
-- Construction Law and Contracts  
+- Strengthened ability to explain technical concepts clearly.  
+- Improved skills in simplifying spatial visualization problems.  
+- Gained classroom management experience.  
+- Identified common learning challenges of first-year students.  
+- Enhanced instructional planning and preparation skills.
 
-**Skills & Tools:**  
-- Critical Path Method (CPM) scheduling  
-- Construction risk and safety analysis  
-- Regulatory interpretation and compliance  
+# Coursework (Construction Management Focus)
 
-### Transportation Engineering
-**Courses:**  
-- Traffic Flow Theory  
-- Pavement Design  
+Coursework emphasized project planning, construction operations, and digital construction systems. Major topics included Heavy Construction Methods, Construction Scheduling, Building Information Modeling (BIM), Construction Safety, Construction Documents, and Construction Economics.
 
-**Skills & Tools:**  
-- Transportation data analysis  
-- Infrastructure performance evaluation  
+## Technical Competencies Developed
 
-### Artificial Intelligence / Machine Learning
-**Courses:**  
-- Machine Learning  
-- Data Mining  
+**Project Planning & Controls**
+- Primavera P6 and MS Project scheduling  
+- Construction sequencing and resource allocation  
+- Procore-based RFI and submittal status monitoring  
 
-**Skills & Tools:**  
-- Python programming  
-- Regression and classification models  
-- Clustering techniques  
+**Digital Construction & Modeling**
+- Revit-based Building Information Modeling (BIM) and model coordination  
+- Construction drawing interpretation and plan reading  
+- As-built documentation and record drawing preparation  
+
+**Field Operations & Equipment Analysis**
+- Earthwork planning and quantity takeoff  
+- Equipment productivity and fleet optimization analysis  
+- Crane load chart interpretation  
+
+**Surveying & Reality Capture**
+- Exposure to Theodolite and Total Station  
+- 3D laser scanning platforms (Topcon GLS-2000, Leica BLK360, Matterport Pro3)
+
