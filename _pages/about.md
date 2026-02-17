@@ -9,11 +9,9 @@ redirect_from:
 
 ## Professional Overview
 
-I am a Ph.D. student in Civil Engineering with a concentration in Construction Management at the University of Wyoming. I conduct research in the Construction Research and Innovation Lab (CRIL) under the supervision of Prof. Charlie Zhang.
+I am a Ph.D. student in Civil Engineering (Construction Management) at University of Wyoming and a researcher in the Construction Research and Innovation Lab, advised by Dr. Charlie Zhang. My research is broadly oriented toward construction safety and infrastructure resilience.
 
-My work focuses on construction safety, human factors, and energy infrastructure resilience. I integrate physiological sensing technologies such as electroencephalography (EEG) and eye tracking with virtual reality and data-driven approaches, including artificial intelligence and machine learning, to study cognitive workload and decision-making in construction environments.
-
-I earned my bachelor’s degree in Civil Engineering from the Institute of Engineering, Tribhuvan University (Pulchowk Campus), Nepal. Before beginning my doctoral studies, I worked with government agencies and private contractors on building construction and highway and pavement engineering projects.
+Before beginning my doctoral studies, I worked as a municipal civil engineer and in private construction firms, contributing to planning, scheduling, and inspection on projects totaling approximately $50 million (across multiple projects). I also worked as a Project Engineer Intern in the United States, supporting cost-loaded scheduling, pay applications, and project documentation. My industry interests include heavy construction operations, equipment productivity analysis, and construction planning methods.
 
 ---
 
@@ -48,17 +46,17 @@ I earned my bachelor’s degree in Civil Engineering from the Institute of Engin
 
 ---
 ## Research Interests
-
-- Construction safety and ergonomics  
-- Cognitive and human-centered approaches in construction engineering  
-- Energy infrastructure resilience  
-- Physiological sensing in construction safety research (EEG, eye tracking)  
-- Data-driven and machine learning–based safety analysis  
+My research interests lie at the intersection of construction engineering, human factors, and infrastructure resilience. Broad thematic areas include:
+- Human factors and cognitive ergonomics in construction  
+- Construction safety and risk assessment  
+- Energy and infrastructure resilience  
+- Data-driven modeling for safety and performance improvement  
+- Integration of emerging technologies in construction research
 
 ---
 
 ## Current Research
 
-My doctoral research investigates construction safety and human factors through controlled experimental and data-driven approaches. I focus on understanding cognitive workload, attention, and decision-making in safety-critical construction environments. 
+My current doctoral research examines how construction workers perceive and respond to safety-critical situations. Using controlled laboratory experiments, I measure cognitive workload, attention allocation, and decision accuracy during safety-judgment tasks.
 
-By integrating physiological sensing techniques such as EEG and eye tracking with immersive virtual reality experiments, I study worker behavior in simulated construction scenarios. The broader goal of this work is to inform the design of safer construction systems and improve resilience in infrastructure and energy projects.
+The study integrates electroencephalography (EEG), eye tracking, and behavioral response data to quantify human safety performance. These findings aim to inform the design of safer construction systems and support evidence-based safety management practices.

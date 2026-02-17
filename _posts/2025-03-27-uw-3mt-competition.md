@@ -34,15 +34,6 @@ gallery:
     alt: "Judge feedback sheet 4"
     title: "Judges' feedback – presentation delivery"
 
-  - url: /posts/uw-3mt-competition/judges-comments-5.jpg
-    image_path: /posts/uw-3mt-competition/judges-comments-5.jpg
-    alt: "Judge feedback sheet 5"
-    title: "Judges' feedback – overall evaluation"
-
-  - url: /posts/uw-3mt-competition/judges-comments-6.jpg
-    image_path: /posts/uw-3mt-competition/judges-comments-6.jpg
-    alt: "Judge feedback sheet 6"
-    title: "Judges' feedback – strengths and suggestions"
 ---
 
 I had the opportunity to participate in the inaugural 3-Minute Thesis (3MT) competition at the University of Wyoming.
@@ -57,4 +48,4 @@ Overall, the experience strengthened my confidence in public speaking and remind
 
 ## Photo Gallery
 
-{% include gallery caption="Selected judges’ feedback from the 3-Minute Thesis (3MT) competition." %}
+{% include gallery caption="Judges’ feedback from the 3-Minute Thesis (3MT) competition." %}

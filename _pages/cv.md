@@ -27,10 +27,10 @@ Research Experience
 **Graduate Research Assistant**, University of Wyoming  
 *2024 – Present*  
 
-- Conduct research on construction safety and cognitive ergonomics using VR, EEG, GSR, PPG/HRV, and eye-tracking to study mental workload and safety-related decision-making.  
-- Develop controlled VR simulations of construction tasks to examine worker behavior and cognitive responses.  
-- Perform 3D terrestrial laser scanning using Topcon GLS-2000, Leica BLK360, and Matterport Pro3; process and register point clouds for heritage documentation projects including Laramie Railroad Depot, High Plains Arboretum, and Fort Laramie National Historic Site.  
-- Contribute to grant writing and research development efforts, supporting multiple proposals and co-authoring peer-reviewed publications.  
+- Design and conduct experimental studies on cognitive workload and safety decision-making in construction environments.  
+- Collect and analyze multimodal physiological data (EEG, eye tracking) to quantify human performance.  
+- Perform 3D terrestrial laser scanning and point cloud processing for heritage documentation projects. 
+- Contribute to funded research proposals and co-author peer-reviewed journal publications. 
 
 Industry Experience
 ======
