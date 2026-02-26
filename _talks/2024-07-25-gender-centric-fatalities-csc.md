@@ -7,9 +7,9 @@ venue: "Construction Safety Conference"
 date: 2024-07-25
 location: "Lawrence, KS, USA"
 ---
-<img src="/images/talks/construction-safety-conf-2024_1.jpg" width="50%">
+<img src="/images/talks/construction-safety-conf-2024_1.jpg" width="45%">
 <br>
-<img src="/images/talks/construction-safety-conf-2024_2.jpg" width="50%">
+<img src="/images/talks/construction-safety-conf-2024_2.jpg" width="45%">
 
 
 This talk presented a data-driven regression framework for analyzing gender-related patterns in construction workplace fatalities. Emphasis was placed on predictive modeling and implications for targeted safety interventions.

@@ -2,35 +2,59 @@
 layout: single
 permalink: /portfolio/
 author_profile: true
-title: "Trainings / Certifications"
+title: "Certifications / Professional Development"
 ---
 
-## Certifications and Licenses
+## Certifications & Licenses
 
-- **Registered Civil Engineer (Civil “A” Category)**  
-  Nepal Engineering Council, License No. 28369 (2021)
-
-- **OSHA 30-Hour Construction Safety and Health**  
-  OSHA, Certificate No. 26-607535251 (2024)
-
-- **FAA Part 107 Remote Pilot Certificate**  
-  Federal Aviation Administration, Certificate No. 5198844 (2025)
-
-- **U.S. Driver’s License**  
-  State of Wyoming (Valid)
+**Registered Civil Engineer (Civil “A” Category)**  
+Nepal Engineering Council  
+License No. 28369  
+Issued 2021  
 
 ---
 
-## Professional Development and Training
+**OSHA 30-Hour Construction Safety and Health**  
+Occupational Safety and Health Administration  
+Certificate No. 26-607535251  
+Issued 2024  
+
+---
+
+**FAA Part 107 Remote Pilot Certificate**  
+Federal Aviation Administration  
+Certificate No. 5198844  
+Issued 2025  
+
+---
+
+**U.S. Driver’s License**  
+State of Wyoming 
+
+---
+
+## Professional Training
 
 ### AI Unlocked: Empowering Higher Education Through Research and Discovery  
-**National Artificial Intelligence Research Resource (NAIRR)**  
-Pilot User Experience Working Group, Denver, CO — April 2025
+National Artificial Intelligence Research Resource (NAIRR)  
+Denver, Colorado, April 2025  
 
-- Participated in a two-day professional development program focused on the use of artificial intelligence tools and computational resources for academic research and data analysis.
+Participated in a professional development workshop focused on:
 
-### Peer Reviewer	2025 – Present 
-•	Journal of Engineering, Design and Technology, Emerald Publishing (5 manuscripts)	 
-•	Journal of Legal Affairs and Dispute Resolution in Engineering and Construction, ASCE (5 manuscripts)
-•	Frontiers in Built Environment, Frontiers, (1 Manuscript)
-•	The Sixth European Structural Engineering and Construction Conference (2 manuscripts) 
+- Responsible and effective use of artificial intelligence in academic research  
+- Customization of AI tools for discipline-specific applications  
+- Integration of high-performance computing (HPC) resources  
+- Interdisciplinary collaboration and scalable research infrastructure  
+
+---
+
+## Academic Service
+
+**Invited Peer Reviewer (2025–Present)**  
+
+Serve as a reviewer for journals and international conferences in construction engineering, infrastructure systems, and interdisciplinary research:
+
+- *Journal of Engineering, Design and Technology* (Emerald Publishing): <u>5 manuscripts</u> 
+- *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (ASCE): <u>7 manuscripts</u> 
+- *Frontiers in Built Environment*: <u>1 manuscripts</u>
+- Sixth European Structural Engineering and Construction Conference: <u>2 manuscripts</u> 

@@ -30,22 +30,22 @@ Coursework emphasized project planning, construction operations, and digital con
 
 ## Technical Competencies Developed
 
-**Project Planning & Controls**
+**Project Planning and Controls**
 - Primavera P6 and MS Project scheduling  
 - Construction sequencing and resource allocation  
 - Procore-based RFI and submittal status monitoring  
 
-**Digital Construction & Modeling**
-- Revit-based Building Information Modeling (BIM) and model coordination  
+**Digital Construction and Modeling**
+- Revit-based BIM modeling  
 - Construction drawing interpretation and plan reading  
 - As-built documentation and record drawing preparation  
 
-**Field Operations & Equipment Analysis**
+**Field Operations and Equipment Analysis**
 - Earthwork planning and quantity takeoff  
 - Equipment productivity and fleet optimization analysis  
 - Crane load chart interpretation  
 
-**Surveying & Reality Capture**
+**Surveying and Reality Capture**
 - Exposure to Theodolite and Total Station  
-- 3D laser scanning platforms (Topcon GLS-2000, Leica BLK360, Matterport Pro3)
+- 3D laser scanning platforms (Topcon GLS-2000, Leica BLK2FLY, Leica BLK360, Matterport Pro3)
 

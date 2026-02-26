@@ -7,4 +7,7 @@ venue: "Wyoming’s Energy Future Symposium"
 date: 2024-09-12
 location: "Laramie, WY, USA"
 ---
+<img src="/images/talks/e1.jpg" width="45%">
+
+
 This poster explored safety considerations and sustainability challenges associated with micro and small modular reactors. The work emphasized regulatory, operational, and construction-related safety insights relevant to emerging nuclear technologies.
