@@ -5,7 +5,7 @@ author_profile: true
 meta: false
 date: null
 header: false
-title: "Teaching Experience and Courseworks"
+title: "Teaching Experience and Coursework"
 ---
 
 # Teaching Experience
