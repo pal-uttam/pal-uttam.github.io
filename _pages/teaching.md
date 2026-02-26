@@ -5,7 +5,7 @@ author_profile: true
 meta: false
 date: null
 header: false
-title:
+title: false
 ---
 
 # Teaching Experience
