@@ -27,6 +27,7 @@ Research Experience
 **Graduate Research Assistant**, University of Wyoming  
 *2024 – Present*  
 
+- Investigate safety and regulatory challenges in nuclear and hydrogen energy infrastructure with implications for international energy transition and sustainability.
 - Design and conduct experimental studies on cognitive workload and safety decision-making in construction environments.  
 - Collect and analyze multimodal physiological data (EEG, eye tracking) to quantify human performance.  
 - Perform 3D terrestrial laser scanning and point cloud processing for heritage documentation projects. 
@@ -73,7 +74,7 @@ Professional Service
 **Peer Reviewer**  
 *2025 – Present*  
 
-- Journal of Engineering, Design and Technology (Emerald Publishing) – 5 manuscripts  
+- Journal of Engineering, Design and Technology (Emerald Publishing) – 6 manuscripts  
 - Journal of Legal Affairs and Dispute Resolution in Engineering and Construction (ASCE) – 7 manuscripts  
 - Frontiers in Built Environment – 1 manuscript  
 - Sixth European Structural Engineering and Construction Conference – 2 manuscripts  
@@ -100,7 +101,7 @@ Grants and Scholarships
 
 **Awards and Travel Scholarships**  
 
-- ASTM International Project Grant – $500 (2024)  
+- ASTM International Project Grant (2024)  
 - CEPS Graduate Student Travel Support, University of Wyoming – $1,200 (2025)  
 - Graduate Student Travel Award, School of Graduate Education, University of Wyoming – $500 (2025)  
 - Graduate Student Travel Award, School of Graduate Education, University of Wyoming – $500 (2024)  
@@ -115,18 +116,18 @@ Leadership Experience
 ======
 
 **President**, Friends of Nepal, University of Wyoming  
-*2025 – Present*  
+*Apr 2025 – Present*  
 
 - Lead executive board of 13 members and coordinate cultural and social programs for 70+ members.  
 - Organize “Celebrate Nepal,” an annual event with 400+ participants, managing a $10,000 budget and coordinating with university administration.  
 
 **Vice President**, Friends of Nepal, University of Wyoming  
-*2024 – 2025*  
+*Apr 2024 – Apr 2025*  
 
 - Supported executive operations, event logistics, budgeting, and inter-organization coordination.  
 
 **President**, Civil Engineering Students’ Society-Nepal, 14th Committee  
-*2019 – 2021*  
+*Dec 2019 – May 2021*  
 
 - Led academic and research initiatives for undergraduate civil engineering students across Nepal.  
 - Organized the 11th National Civil Engineering Exhibition with 2000+ participants.  
