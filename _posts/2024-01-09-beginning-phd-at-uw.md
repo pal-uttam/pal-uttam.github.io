@@ -22,7 +22,7 @@ gallery:
 
 On January 9, 2024, I began a new chapter as a Graduate Research Assistant in the Department of Civil, Architectural Engineering, and Construction Management at the University of Wyoming.
 
-I am pursuing a Ph.D. in Civil Engineering with a concentration in Construction Management and working with Professor Charlie (Chengyi) Zhang, Ph.D., P.E., and the Construction Research and Innovation Lab (CRIL). My research focuses on improving construction processes through efficient, smart, and sustainable approaches.
+I am pursuing a Ph.D. in Civil Engineering with a concentration in Construction Management and working with Professor Charlie (Chengyi) Zhang, Ph.D., P.E., and the Construction Research and Innovation Lab (CRIL). My research focuses on workplace and workforce safety in the construction sites.
 
 This opportunity represents both responsibility and growth. Doctoral study demands discipline, patience, and long-term commitment, and I look forward to developing as a researcher while contributing to meaningful projects.
 

@@ -75,7 +75,7 @@ Professional Service
 *2025 – Present*  
 
 - Journal of Engineering, Design and Technology (Emerald Publishing) – 6 manuscripts  
-- Journal of Legal Affairs and Dispute Resolution in Engineering and Construction (ASCE) – 7 manuscripts  
+- Journal of Legal Affairs and Dispute Resolution in Engineering and Construction (ASCE) – 9 manuscripts  
 - Frontiers in Built Environment – 1 manuscript  
 - Sixth European Structural Engineering and Construction Conference – 2 manuscripts  
 
