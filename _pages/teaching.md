@@ -10,33 +10,43 @@ title: "Teaching Experience and Coursework"
 
 # Teaching Experience
 
+## Teaching Assistant (Upcoming) – CM 2000  
+University of Wyoming  
+*Fall 2026 (Expected)*  
+
+Selected to support instruction in an undergraduate Construction Management course, assisting with course delivery, student guidance, and evaluation activities.
+
+---
+
 ## Engineering Drawing (Undergraduate Level)  
 Institute of Engineering, Pulchowk Campus, Tribhuvan University, Nepal  
 *Winter 2020 (One-Month Instructional Session)*  
 
-Delivered supplemental instruction in Engineering Drawing to first-year civil engineering students, covering technical drawing principles, geometric construction, and projection techniques.
+Provided supplemental instruction to first-year civil engineering students, covering technical drawing principles, geometric construction, and projection techniques.
 
-**Key learning outcomes:**
+**Key Contributions and Learning Outcomes:**
 
-- Strengthened ability to explain technical concepts clearly.  
-- Improved skills in simplifying spatial visualization problems.  
-- Gained classroom management experience.  
-- Identified common learning challenges of first-year students.  
-- Enhanced instructional planning and preparation skills.
+- Communicated technical concepts clearly to students with varying levels of preparation  
+- Simplified spatial visualization and geometric interpretation challenges  
+- Developed classroom management and student engagement skills  
+- Identified and addressed common learning difficulties among first-year students  
+- Strengthened instructional planning and content delivery approaches  
+
+---
 
 # Coursework (Construction Management Focus)
 
-Coursework emphasized project planning, construction operations, and digital construction systems. Major topics included Heavy Construction Methods, Construction Scheduling, Building Information Modeling (BIM), Construction Safety, Construction Documents, and Construction Economics.
+Coursework emphasized project planning, construction operations, and digital construction systems. Key areas included Heavy Construction Methods, Construction Scheduling, Building Information Modeling (BIM), Construction Safety, Construction Documents, and Construction Economics.
 
-## Technical Competencies Developed
+## Technical Competencies
 
 **Project Planning and Controls**
-- Primavera P6 and MS Project scheduling  
+- Scheduling using Primavera P6 and MS Project  
 - Construction sequencing and resource allocation  
-- Procore-based RFI and submittal status monitoring  
+- RFI and submittal tracking using Procore  
 
 **Digital Construction and Modeling**
-- Revit-based BIM modeling  
+- BIM modeling using Revit  
 - Construction drawing interpretation and plan reading  
 - As-built documentation and record drawing preparation  
 
@@ -46,6 +56,5 @@ Coursework emphasized project planning, construction operations, and digital con
 - Crane load chart interpretation  
 
 **Surveying and Reality Capture**
-- Exposure to Theodolite and Total Station  
-- 3D laser scanning platforms (Topcon GLS-2000, Leica BLK2FLY, Leica BLK360, Matterport Pro3)
-
+- Operation of Theodolite and Total Station  
+- Experience with 3D laser scanning systems (Topcon GLS-2000, Leica BLK2FLY, Leica BLK360, Matterport Pro3)

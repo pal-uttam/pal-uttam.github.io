@@ -9,7 +9,7 @@ redirect_from:
 
 ## Professional Overview
 
-I am a Ph.D. student in Civil Engineering (Construction Management) at the University of Wyoming and a researcher in the Construction Research and Innovation Lab, advised by Dr. Charlie Zhang. My research is broadly oriented toward construction safety and infrastructure resilience.
+I am a Ph.D. Candidate of Civil Engineering (Construction Management) at the University of Wyoming and a researcher in the Construction Research and Innovation Lab, advised by Dr. Charlie Zhang. My research is broadly oriented toward construction safety and infrastructure resilience.
 
 Before beginning my doctoral studies, I worked as a municipal civil engineer and in private construction firms, contributing to planning, scheduling, and inspection on projects totaling approximately $50 million (across multiple projects). I also worked as a Project Engineer Intern in the United States, supporting cost-loaded scheduling, pay applications, and project documentation. My industry interests include heavy construction operations, equipment productivity analysis, and construction planning methods.
 
