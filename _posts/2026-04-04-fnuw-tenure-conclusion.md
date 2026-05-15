@@ -16,20 +16,20 @@ excerpt: "A short reflection on my time as President of Friends of Nepal at UW, 
 layout: single
 
 gallery:
-  - url: /images/posts/fnuw-tenure-conclusion-2026/event.JPG
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/event.JPG
-    alt: "Celebrate Nepal 2026"
-    title: "Celebrate Nepal 2026"
-
-  - url: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPG
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPG
+  - url: /posts/fnuw-tenure-conclusion-2026/audiance.jpg
+    image_path: /posts/fnuw-tenure-conclusion-2026/audiance.jpg
     alt: "Audience at Celebrate Nepal 2026"
     title: "Audience at Celebrate Nepal 2026"
 
-  - url: /images/posts/fnuw-tenure-conclusion-2026/community.JPEG
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/community.JPEG
+  - url: /posts/fnuw-tenure-conclusion-2026/community.jpeg
+    image_path: /posts/fnuw-tenure-conclusion-2026/community.jpeg
     alt: "Community gathering"
     title: "Community gathering"
+
+  - url: /posts/fnuw-tenure-conclusion-2026/event.JPG
+    image_path: /posts/fnuw-tenure-conclusion-2026/event.JPG
+    alt: "Celebrate Nepal 2026 event"
+    title: "Celebrate Nepal 2026"
 ---
 
 As my time as President of Friends of Nepal at the University of Wyoming comes to an end, I feel grateful for the people I worked with and the experiences we shared.
@@ -49,8 +49,8 @@ I will always value this chapter of my time at UW. I hope Friends of Nepal at UW
 {% include gallery
   caption="Highlights from Celebrate Nepal 2026 and my time with Friends of Nepal at UW."
   images="
-    /images/posts/fnuw-tenure-conclusion-2026/event.JPG|Celebrate Nepal 2026,
-    /images/posts/fnuw-tenure-conclusion-2026/audiance.JPG|Audience at Celebrate Nepal 2026,
-    /images/posts/fnuw-tenure-conclusion-2026/community.JPEG|Community gathering
+    /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg|Audience at Celebrate Nepal 2026,
+    /images/posts/fnuw-tenure-conclusion-2026/community.jpeg|Community gathering,
+    /images/posts/fnuw-tenure-conclusion-2026/event.JPG|Celebrate Nepal 2026
   "
 %}
