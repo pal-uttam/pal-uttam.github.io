@@ -54,7 +54,7 @@ Participated in a professional development workshop focused on:
 
 Serve as a reviewer for journals and international conferences in construction engineering, infrastructure systems, and interdisciplinary research:
 
-- *Journal of Engineering, Design and Technology* (Emerald Publishing): <u>5 manuscripts</u> 
-- *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (ASCE): <u>7 manuscripts</u> 
-- *Frontiers in Built Environment*: <u>1 manuscripts</u>
+- *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (ASCE): <u>9 manuscripts</u> 
+- *Journal of Engineering, Design and Technology* (Emerald Publishing): <u>7 manuscripts</u> 
+- *Frontiers in Built Environment*: <u>2 manuscripts</u>
 - Sixth European Structural Engineering and Construction Conference: <u>2 manuscripts</u> 

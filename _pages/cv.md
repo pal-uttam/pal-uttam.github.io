@@ -19,7 +19,6 @@ GPA: 3.8 | Expected Graduation: May 2027
 
 **Bachelor of Civil Engineering**, Tribhuvan University, Institute of Engineering, Pulchowk Campus, Nepal  
 *Dec 2016 – Oct 2021*  
-GPA: 3.31  
 
 Research Experience
 ======

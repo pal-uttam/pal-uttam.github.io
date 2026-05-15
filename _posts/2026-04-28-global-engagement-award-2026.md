@@ -14,20 +14,15 @@ excerpt: "Recognized as a finalist for the Excellence in Global Engagement Stude
 layout: single
 
 gallery:
-  - url: /posts/global-engagement-award-2026/event.jpg
-    image_path: /posts/global-engagement-award-2026/event.jpg
+  - url: /posts/global-engagement-award-2026/with-president-sidel.jpg
+    image_path: /posts/global-engagement-award-2026/with-president-sidel.jpg
     alt: "Award ceremony"
     title: "Excellence in Global Engagement Awards ceremony"
-
-  - url: /posts/global-engagement-award-2026/group.jpg
-    image_path: /posts/global-engagement-award-2026/group.jpg
-    alt: "With attendees"
-    title: "With fellow participants and attendees"
 
   - url: /posts/global-engagement-award-2026/recognition.jpg
     image_path: /posts/global-engagement-award-2026/recognition.jpg
     alt: "Recognition moment"
-    title: "Recognition at the event"
+    title: "Recognition booklet"
 ---
 
 I was honored to be recognized as a finalist for the Excellence in Global Engagement Student Award at the University of Wyoming on April 28, 2026.
@@ -47,8 +42,7 @@ This recognition motivates me to continue working in areas that contribute to me
 {% include gallery
   caption="Highlights from the Excellence in Global Engagement Awards event."
   images="
-    /images/posts/global-engagement-award-2026/event.jpg|Award ceremony,
-    /images/posts/global-engagement-award-2026/group.jpg|With fellow participants and attendees,
-    /images/posts/global-engagement-award-2026/recognition.jpg|Recognition at the event
+    /images/posts/global-engagement-award-2026/with-president-sidel.jpg|Award ceremony,
+       /images/posts/global-engagement-award-2026/recognition.jpg|Recognition booklet
   "
 %}

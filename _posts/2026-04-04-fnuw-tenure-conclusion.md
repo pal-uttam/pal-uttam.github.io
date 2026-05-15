@@ -1,54 +1,56 @@
 ---
-title: "Recognized as Finalist for Excellence in Global Engagement Student Award"
-date: 2026-04-28
-permalink: /posts/global-engagement-award-2026/
+title: "Concluding My Tenure as President of Friends of Nepal at UW"
+date: 2026-04-04
+permalink: /posts/fnuw-tenure-conclusion-2026/
 tags:
-  - award
-  - recognition
-  - global engagement
+  - fnuw
+  - friends of nepal
+  - leadership
+  - community
+  - nepal
   - university of wyoming
-  - research
+  - celebrate nepal
 categories:
   - Updates
-excerpt: "Recognized as a finalist for the Excellence in Global Engagement Student Award at the University of Wyoming."
+excerpt: "A short reflection on my time as President of Friends of Nepal at UW, Celebrate Nepal 2026, and being nominated for Student Organization Leader of the Year."
 layout: single
 
 gallery:
-  - url: /posts/global-engagement-award-2026/event.jpg
-    image_path: /posts/global-engagement-award-2026/event.jpg
-    alt: "Award ceremony"
-    title: "Excellence in Global Engagement Awards ceremony"
+  - url: /images/posts/fnuw-tenure-conclusion-2026/event.jpg
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/event.jpg
+    alt: "Celebrate Nepal 2026 event"
+    title: "Celebrate Nepal 2026"
 
-  - url: /posts/global-engagement-award-2026/group.jpg
-    image_path: /posts/global-engagement-award-2026/group.jpg
-    alt: "With attendees"
-    title: "With fellow participants and attendees"
+  - url: /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg
+    alt: "FNUW team and volunteers"
+    title: "audiance"
 
-  - url: /posts/global-engagement-award-2026/recognition.jpg
-    image_path: /posts/global-engagement-award-2026/recognition.jpg
-    alt: "Recognition moment"
-    title: "Recognition at the event"
+  - url: /images/posts/fnuw-tenure-conclusion-2026/community.jpg
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/community.jpg
+    alt: "Community gathering"
+    title: "Community gathering"
 ---
 
-I was honored to be recognized as a finalist for the Excellence in Global Engagement Student Award at the University of Wyoming on April 28, 2026.
+As my time as President of Friends of Nepal at the University of Wyoming comes to an end, I feel grateful for the people I worked with and the experiences we shared.
 
-This award recognizes students, faculty, and staff whose work contributes to global engagement through research, teaching, and service beyond local or national boundaries. :contentReference[oaicite:0]{index=0}
+This role gave me the chance to serve the Nepali student and community group at UW in a more direct way. It was not always easy, but it was meaningful. I learned a lot about planning, teamwork, communication, and showing up for the community.
 
-Being nominated and selected as a finalist means a lot to me. I am especially grateful to those who took the time to nominate and support me during this process.
+One of the biggest moments of this term was *Celebrate Nepal 2026*. The event brought together students, families, faculty, staff, and community members to celebrate Nepali culture through food, music, dance, and shared stories. Seeing so many people come together made the work behind the event worth it.
 
-My work has focused on research and activities that connect different communities, particularly through construction safety and human-centered approaches. It is encouraging to see this effort recognized at the university level.
+I am also thankful to have been nominated for the Student Organization Leader of the Year award. The nomination itself meant a lot to me because it reflected the support and trust I received from people around me.
 
-I would like to sincerely thank my nominators and mentors for their support and encouragement.
+I want to thank the FNUW executive board, volunteers, performers, sponsors, advisors, and everyone who helped during this term. This was a team effort, and I was lucky to work with people who cared about the organization and the community.
 
-This recognition motivates me to continue working in areas that contribute to meaningful global impact.
+I will always value this chapter of my time at UW. I hope Friends of Nepal at UW continues to grow and remains a welcoming space for Nepali students, families, and friends of Nepal in Wyoming.
 
 ## Photo Gallery
 
 {% include gallery
-  caption="Highlights from the Excellence in Global Engagement Awards event."
+  caption="Highlights from Celebrate Nepal 2026 and my time with Friends of Nepal at UW."
   images="
-    /images/posts/global-engagement-award-2026/event.jpg|Award ceremony,
-    /images/posts/global-engagement-award-2026/group.jpg|With fellow participants and attendees,
-    /images/posts/global-engagement-award-2026/recognition.jpg|Recognition at the event
+    /images/posts/fnuw-tenure-conclusion-2026/event.jpg|Celebrate Nepal 2026,
+    /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg|audiance,
+    /images/posts/fnuw-tenure-conclusion-2026/community.jpg|Community gathering
   "
 %}

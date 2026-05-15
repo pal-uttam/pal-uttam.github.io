@@ -19,11 +19,6 @@ gallery:
     alt: "Presenting my proposal"
     title: "Proposal presentation"
 
-  - url: /posts/phd-candidacy/committee.jpg
-    image_path: /posts/phd-candidacy/committee.jpg
-    alt: "With advisor and committee"
-    title: "With my advisor and committee"
-
   - url: /posts/phd-candidacy/slide.jpg
     image_path: /posts/phd-candidacy/slide.jpg
     alt: "Research presentation slide"
@@ -46,7 +41,6 @@ I am looking forward to continuing this research in the next phase.
   caption="Moments from my proposal presentation and PhD candidacy milestone."
   images="
     /images/posts/phd-candidacy/presentation.jpg|Proposal presentation,
-    /images/posts/phd-candidacy/committee.jpg|With my advisor and committee,
     /images/posts/phd-candidacy/slide.jpg|Research presentation overview
   "
 %}

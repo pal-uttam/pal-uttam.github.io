@@ -36,7 +36,13 @@ Provided supplemental instruction to first-year civil engineering students, cove
 
 # Coursework (Construction Management Focus)
 
-Coursework emphasized project planning, construction operations, and digital construction systems. Key areas included Heavy Construction Methods, Construction Scheduling, Building Information Modeling (BIM), Construction Safety, Construction Documents, and Construction Economics.
+## Relevant Coursework
+- Heavy Construction Methods  
+- Construction Scheduling  
+- Building Information Modeling (BIM)  
+- Construction Safety  
+- Construction Documents  
+- Construction Economics  
 
 ## Technical Competencies
 
@@ -58,3 +64,31 @@ Coursework emphasized project planning, construction operations, and digital con
 **Surveying and Reality Capture**
 - Operation of Theodolite and Total Station  
 - Experience with 3D laser scanning systems (Topcon GLS-2000, Leica BLK2FLY, Leica BLK360, Matterport Pro3)
+
+---
+
+# Coursework (Artificial Intelligence and Data Analytics Focus)
+
+## Relevant Coursework
+- Introduction to Artificial Intelligence  
+- Introduction to Deep Learning  
+- Machine Learning and Data Analysis  
+
+## Technical Competencies
+
+**Artificial Intelligence and Intelligent Systems**
+- Fundamentals of artificial intelligence and intelligent agents  
+- Search algorithms and problem-solving methods  
+- Agent-based systems and introductory agentic AI concepts  
+
+**Machine Learning and Statistical Analysis**
+- Probability and statistics for data analysis  
+- Loss functions and optimization methods  
+- Cluster analysis and unsupervised learning techniques  
+- Principal Component Analysis (PCA) and dimensionality reduction  
+
+**Deep Learning and Neural Networks**
+- Shallow neural networks and deep neural networks (DNNs)  
+- Model regularization and overfitting prevention techniques  
+- Convolutional Neural Networks (CNNs)  
+- Introduction to graph neural networks  
