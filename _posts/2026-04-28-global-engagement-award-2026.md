@@ -16,8 +16,8 @@ layout: single
 gallery:
   - url: /posts/global-engagement-award-2026/with-president-sidel.jpg
     image_path: /posts/global-engagement-award-2026/with-president-sidel.jpg
-    alt: "Award ceremony"
-    title: "Excellence in Global Engagement Awards ceremony"
+    alt: "with-president-sidel"
+    title: "with-president-sidel"
 
   - url: /posts/global-engagement-award-2026/recognition.jpg
     image_path: /posts/global-engagement-award-2026/recognition.jpg
@@ -42,7 +42,7 @@ This recognition motivates me to continue working in areas that contribute to me
 {% include gallery
   caption="Highlights from the Excellence in Global Engagement Awards event."
   images="
-    /images/posts/global-engagement-award-2026/with-president-sidel.jpg|Award ceremony,
+    /images/posts/global-engagement-award-2026/with-president-sidel.jpg|with-president-sidel,
        /images/posts/global-engagement-award-2026/recognition.jpg|Recognition booklet
   "
 %}
