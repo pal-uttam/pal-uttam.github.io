@@ -18,16 +18,16 @@ layout: single
 gallery:
   - url: /images/posts/fnuw-tenure-conclusion-2026/event.JPG
     image_path: /images/posts/fnuw-tenure-conclusion-2026/event.JPG
-    alt: "Celebrate Nepal 2026 event"
+    alt: "Celebrate Nepal 2026"
     title: "Celebrate Nepal 2026"
 
-  - url: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPEG
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPEG
+  - url: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPG
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPG
     alt: "Audience at Celebrate Nepal 2026"
     title: "Audience at Celebrate Nepal 2026"
 
-  - url: /images/posts/fnuw-tenure-conclusion-2026/community.JPG
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/community.JPG
+  - url: /images/posts/fnuw-tenure-conclusion-2026/community.JPEG
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/community.JPEG
     alt: "Community gathering"
     title: "Community gathering"
 ---
