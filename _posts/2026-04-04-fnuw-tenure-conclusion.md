@@ -16,18 +16,18 @@ excerpt: "A short reflection on my time as President of Friends of Nepal at UW, 
 layout: single
 
 gallery:
-  - url: /images/posts/fnuw-tenure-conclusion-2026/event.jpg
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/event.jpg
+  - url: /images/posts/fnuw-tenure-conclusion-2026/event.JPG
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/event.JPG
     alt: "Celebrate Nepal 2026 event"
     title: "Celebrate Nepal 2026"
 
-  - url: /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg
+  - url: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPEG
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/audiance.JPEG
     alt: "Audience at Celebrate Nepal 2026"
     title: "Audience at Celebrate Nepal 2026"
 
-  - url: /images/posts/fnuw-tenure-conclusion-2026/community.jpg
-    image_path: /images/posts/fnuw-tenure-conclusion-2026/community.jpg
+  - url: /images/posts/fnuw-tenure-conclusion-2026/community.JPG
+    image_path: /images/posts/fnuw-tenure-conclusion-2026/community.JPG
     alt: "Community gathering"
     title: "Community gathering"
 ---
@@ -49,8 +49,8 @@ I will always value this chapter of my time at UW. I hope Friends of Nepal at UW
 {% include gallery
   caption="Highlights from Celebrate Nepal 2026 and my time with Friends of Nepal at UW."
   images="
-    /images/posts/fnuw-tenure-conclusion-2026/event.jpg|Celebrate Nepal 2026,
-    /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg|Audience at Celebrate Nepal 2026,
-    /images/posts/fnuw-tenure-conclusion-2026/community.jpg|Community gathering
+    /images/posts/fnuw-tenure-conclusion-2026/event.JPG|Celebrate Nepal 2026,
+    /images/posts/fnuw-tenure-conclusion-2026/audiance.JPG|Audience at Celebrate Nepal 2026,
+    /images/posts/fnuw-tenure-conclusion-2026/community.JPEG|Community gathering
   "
 %}
