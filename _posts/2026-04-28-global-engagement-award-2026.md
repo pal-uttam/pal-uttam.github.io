@@ -14,13 +14,13 @@ excerpt: "Recognized as a finalist for the Excellence in Global Engagement Stude
 layout: single
 
 gallery:
-  - url: /images/posts/global-engagement-award-2026/with-president-sidel.jpg
-    image_path: /images/posts/global-engagement-award-2026/with-president-sidel.jpg
+  - url: /posts/global-engagement-award-2026/with-president-sidel.JPG
+    image_path: /posts/global-engagement-award-2026/with-president-sidel.JPG
     alt: "With UW President Ed Seidel"
     title: "With UW President Ed Seidel"
 
-  - url: /images/posts/global-engagement-award-2026/recognition.jpg
-    image_path: /images/posts/global-engagement-award-2026/recognition.jpg
+  - url: /posts/global-engagement-award-2026/recognition.jpg
+    image_path: /posts/global-engagement-award-2026/recognition.jpg
     alt: "Recognition booklet"
     title: "Recognition booklet"
 ---
@@ -42,7 +42,7 @@ This recognition motivates me to continue working in ways that contribute positi
 {% include gallery
   caption="Highlights from the Excellence in Global Engagement Awards event."
   images="
-    /images/posts/global-engagement-award-2026/with-president-sidel.jpg|With UW President Ed Seidel,
+    /images/posts/global-engagement-award-2026/with-president-sidel.JPG|With UW President Ed Seidel,
     /images/posts/global-engagement-award-2026/recognition.jpg|Recognition booklet
   "
 %}
