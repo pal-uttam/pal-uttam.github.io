@@ -26,8 +26,8 @@ gallery:
     alt: "Community gathering"
     title: "Community gathering"
 
-  - url: /posts/fnuw-tenure-conclusion-2026/event.JPG
-    image_path: /posts/fnuw-tenure-conclusion-2026/event.JPG
+  - url: /posts/fnuw-tenure-conclusion-2026/event.jpg
+    image_path: /posts/fnuw-tenure-conclusion-2026/event.jpg
     alt: "Celebrate Nepal 2026 event"
     title: "Celebrate Nepal 2026"
 ---
@@ -51,6 +51,6 @@ I will always value this chapter of my time at UW. I hope Friends of Nepal at UW
   images="
     /images/posts/fnuw-tenure-conclusion-2026/audiance.jpg|Audience at Celebrate Nepal 2026,
     /images/posts/fnuw-tenure-conclusion-2026/community.jpeg|Community gathering,
-    /images/posts/fnuw-tenure-conclusion-2026/event.JPG|Celebrate Nepal 2026
+    /images/posts/fnuw-tenure-conclusion-2026/event.jpg|Celebrate Nepal 2026
   "
 %}
