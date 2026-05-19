@@ -15,7 +15,7 @@ Education
 **Ph.D. in Civil Engineering**, University of Wyoming, Laramie, WY, USA  
 *Jan 2024 – Present*  
 Specialization: Construction Management  
-GPA: 3.8 | Expected Graduation: May 2027  
+GPA: 3.8 | Expected Graduation: Dec 2027  
 
 **Bachelor of Civil Engineering**, Tribhuvan University, Institute of Engineering, Pulchowk Campus, Nepal  
 *Dec 2016 – Oct 2021*  

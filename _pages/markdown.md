@@ -49,7 +49,7 @@ North Dakota Legislative Management, Advanced to Presentation Round (2025)
 ## Honors & Competitive Awards
 
 **ASTM International Project Grant 2024**  
-One of five recipients nationwide, 2024  
+One of four recipients nationwide, 2024  
 
 **Full Merit-Based Government Scholarship**  
 Ministry of Education, Government of Nepal, 2016  
