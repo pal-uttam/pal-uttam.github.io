@@ -48,13 +48,27 @@ Participated in a professional development workshop focused on:
 
 ---
 
+### NSF/MSU ConstructionCI CyberTraining Program  
+National Science Foundation (NSF) / Mississippi State University  
+Starkville, Mississippi, June–July 2026  
+
+Participated in an NSF-funded cybertraining program focused on cyber-physical systems for the construction industry, covering:
+
+- Internet of Things (IoT) sensing and data acquisition  
+- Machine learning applications in construction  
+- Robotics for construction operations  
+- Cybersecurity in construction and infrastructure systems
+
+
+
 ## Academic Service
 
 **Invited Peer Reviewer (2025–Present)**  
 
 Serve as a reviewer for journals and international conferences in construction engineering, infrastructure systems, and interdisciplinary research:
 
-- *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (ASCE): <u>9 manuscripts</u> 
-- *Journal of Engineering, Design and Technology* (Emerald Publishing): <u>7 manuscripts</u> 
-- *Frontiers in Built Environment*: <u>2 manuscripts</u>
+- *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (ASCE): <u>12 manuscripts</u> 
+- *Journal of Engineering, Design and Technology* (Emerald Publishing): <u>9 manuscripts</u> 
+- *Frontiers in Built Environment*: <u>3 manuscripts</u>
+- *Frontiers in Artificial Intelligence*: <u>1 manuscripts</u>
 - Sixth European Structural Engineering and Construction Conference: <u>2 manuscripts</u> 

@@ -15,7 +15,7 @@ Education
 **Ph.D. in Civil Engineering**, University of Wyoming, Laramie, WY, USA  
 *Jan 2024 – Present*  
 Specialization: Construction Management  
-GPA: 3.8 | Expected Graduation: Dec 2027  
+GPA: 3.85
 
 **Bachelor of Civil Engineering**, Tribhuvan University, Institute of Engineering, Pulchowk Campus, Nepal  
 *Dec 2016 – Oct 2021*  
@@ -36,9 +36,10 @@ Industry Experience
 ======
 
 **Project Engineer Intern**, DCR Consulting & Engineering, Laramie, WY, USA  
-*May – Sep 2025*  
+*May 2025 – Sep 2025*/July 2026 - Present
 
-- Processed monthly pay applications and updated cost-loaded schedules to track project performance.  
+- Processed monthly pay applications and updated cost-loaded schedules to track project performance.
+- Baseline schedule preparation.
 - Generated weekly status reports for 15 projects using Procore (RFIs and submittals).  
 - Reviewed and corrected as-built drawings in AutoCAD and Civil 3D.  
 
@@ -73,10 +74,11 @@ Professional Service
 **Peer Reviewer**  
 *2025 – Present*  
 
-- Journal of Engineering, Design and Technology (Emerald Publishing) – 6 manuscripts  
-- Journal of Legal Affairs and Dispute Resolution in Engineering and Construction (ASCE) – 9 manuscripts  
-- Frontiers in Built Environment – 1 manuscript  
-- Sixth European Structural Engineering and Construction Conference – 2 manuscripts  
+- Journal of Legal Affairs and Dispute Resolution in Engineering and Construction (ASCE): <u>12 manuscripts</u> 
+- Journal of Engineering, Design and Technology (Emerald Publishing): <u>9 manuscripts</u> 
+- Frontiers in Built Environment: <u>3 manuscripts</u>
+- Frontiers in Artificial Intelligence: <u>1 manuscripts</u>
+- Sixth European Structural Engineering and Construction Conference: <u>2 manuscripts</u> 
 
 Grants and Scholarships
 ======
@@ -115,10 +117,10 @@ Leadership Experience
 ======
 
 **President**, Friends of Nepal, University of Wyoming  
-*Apr 2025 – Present*  
+*Apr 2025 – Apr 2026*  
 
-- Lead executive board of 13 members and coordinate cultural and social programs for 70+ members.  
-- Organize “Celebrate Nepal,” an annual event with 400+ participants, managing a $10,000 budget and coordinating with university administration.  
+- Led executive board of 13 members and coordinated cultural and social programs for 70+ members.  
+- Organized “Celebrate Nepal,” an annual event with 400+ participants, managing a $12,000 budget.  
 
 **Vice President**, Friends of Nepal, University of Wyoming  
 *Apr 2024 – Apr 2025*  
