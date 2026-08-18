@@ -17,13 +17,13 @@ layout: single
 In early October 1893, a survey crew was deep in the mountains of what is now the Shoshone National Forest, mapping the boundary of the country's first protected forest. A snowstorm caught them and would not let up for days. Stuck in a meadow near Younts Creek with nothing to do but wait, they carved their names into the trees around their camp. One of those carvings is dated October 3, 1893. About 133 years later, those trees are still standing in one of the most remote corners of the lower 48, an area known as the Thorofare, though old age and the beetles that have worked through this forest are slowly taking them apart. Our job was to reach the site and record the inscribed trees with 3D laser scanning before they are gone for good. What I did not expect was that getting to them would turn into one of the hardest and most memorable trips of my life.
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/gallaher-survey-tree-2026/p1-tree-inscription-closeup.jpg" alt="The 1893 carving on the survey tree, scanning with the Topcon GLS-2000" style="width:100%; border-radius:6px;">
+  <img src="/images/posts/gallaher-survey-tree-2026/p1-tree-inscription-closeup.jpg" alt="The 1893 carving on the survey tree, scanning with the Topcon GLS-2000" style="width:70%; display:block; margin:0 auto; border-radius:6px;">
   <p style="font-size:0.9em; color:#666; text-align:center;">The 1893 inscription, still legible after more than a century.</p>
 </div>
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/gallaher-survey-tree-2026/p2-tree-wide-in-meadow.jpg" alt="The survey tree in its setting near Younts Creek" style="width:100%; border-radius:6px;">
-  <p style="font-size:0.9em; color:#666; text-align:center;">The tree in its setting, deep in the Washakie Wilderness.</p>
+  <img src="/images/posts/gallaher-survey-tree-2026/p2-tree-wide-in-meadow.jpg" alt="The survey tree in its setting near Younts Creek (Lawrence Todd/Courtesy)" style="width:70%; display:block; margin:0 auto; border-radius:6px;">
+  <p style="font-size:0.9em; color:#666; text-align:center;">The tree in its setting, deep in the Washakie Wilderness. Photo courtesy of Lawrence Todd.</p>
 </div>
 
 We had tried to make this trip once already, back in July. We made it as far as Cody, but nature had other plans. It had been raining in the forest for a week, and the trails had washed out in many places from the flooding, so we called it off. The second chance came in August, and that time we made it all the way in.
@@ -58,7 +58,7 @@ The real work came on August 8, when we left camp at eight and rode about five m
 
 <div style="display:flex; gap:10px; margin: 1.5em 0; flex-wrap:wrap;">
   <div style="flex:1; min-width:200px;">
-    <img src="/images/posts/gallaher-survey-tree-2026/p11-lee-leading-pack-line.jpg" alt="Heading toward the tree location, Lee leading the way uphill" style="width:100%; border-radius:6px;">
+    <img src="/images/posts/gallaher-survey-tree-2026/p11-lee-leading-pack-line.jpg" alt="Heading toward the tree location, Lee leading the way uphill" style="width:70%; display:block; margin:0 auto; border-radius:6px;">
   </div>
   <div style="flex:1; min-width:200px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p10-dense-jungle.jpg" alt="Going through dense timber on the trail" style="width:100%; border-radius:6px;">
@@ -85,14 +85,14 @@ We reached the site around 11:30 and started scanning by noon. On paper the tree
 <p style="font-size:0.9em; color:#666; text-align:center;">The four trees at the site.</p>
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/gallaher-survey-tree-2026/p144-team-scanning-site.jpg" alt="The team scanning the site with LiDAR equipment" style="width:100%; border-radius:6px;">
+  <img src="/images/posts/gallaher-survey-tree-2026/p144-team-scanning-site.jpg" alt="The team scanning the site with LiDAR equipment" style="width:70%; display:block; margin:0 auto; border-radius:6px;">
   <p style="font-size:0.9em; color:#666; text-align:center;">The team at work scanning the site.</p>
 </div>
 
 The next morning we headed out. Lee stayed behind at camp, and his daughter Alex led us the whole way to the trailhead. Nearly twenty-three hours on a mule over those three days was its own kind of pain, even with everything else the trip had given us. From the trailhead we drove toward Casper, and even that stuck with me, crawling along in the dark with deer standing all down the edge of the highway. We got into Casper on the 10th, worn out and finally back to roads, lights, and a working phone.
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/gallaher-survey-tree-2026/p16-alex-leading-ride-out.jpg" alt="Alex leading the ride out to the trailhead" style="width:100%; border-radius:6px;">
+  <img src="/images/posts/gallaher-survey-tree-2026/p16-alex-leading-ride-out.jpg" alt="Alex leading the ride out to the trailhead" style="width:70%; display:block; margin:0 auto; border-radius:6px;">
   <p style="font-size:0.9em; color:#666; text-align:center;">Alex leading the way out on the final morning.</p>
 </div>
 
@@ -102,14 +102,9 @@ I owe the animals credit too. My mules, Ridley on the way in and Sandy on the wa
 
 I am grateful to the people who made this happen: my advisor Dr. Zhang, for the long days in the field and for coordinating with the Park Service and the State to make this documentation trip happen, tying our work to the larger effort to save the tree; Saksham; Marcia, for assessing and recording the condition of the site by proper archaeological standards; and Lee, his crew, and Mark's family, for the horses, the help, and the company that turned a hard job into a memory I will keep for good.
 
-<div style="display:flex; gap:10px; margin: 1.5em 0; flex-wrap:wrap;">
-  <div style="flex:1; min-width:200px;">
-    <img src="/images/posts/gallaher-survey-tree-2026/p17-mules-ridley-sandy.jpg" alt="Ridley and Sandy, the mules" style="width:100%; border-radius:6px;">
-  </div>
-  <div style="flex:1; min-width:200px;">
-    <img src="/images/posts/gallaher-survey-tree-2026/p18-group-photo-team.jpg" alt="The full team together" style="width:100%; border-radius:6px;">
-  </div>
-</div>
-<p style="font-size:0.9em; color:#666; text-align:center;">Ridley and Sandy, and the team that made this trip happen.</p>
-
 The main tree will not be out there much longer. There is a plan to cut out the section with the names and bring it down to a museum in Cheyenne, so people can see it up close instead of losing it to the weather. One day, you might get to stand in front of it yourself.
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/gallaher-survey-tree-2026/p19-burned-forest-new-growth.jpg" alt="Burned forest with dense new growth coming up among the dead trees" style="width:100%; border-radius:6px;">
+  <p style="font-size:0.9em; color:#666; text-align:center;">Burned forest, and the new growth already coming up beneath it.</p>
+</div>
