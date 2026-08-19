@@ -4,13 +4,15 @@ date: 2026-08-06
 permalink: /posts/gallaher-survey-tree-2026/
 tags:
   - Shoshone National Forest
+  - Gallaher tree
   - LiDAR
   - archaeology
-  - Wyoming
+  - Thorofare
+  - 3D scanning
   - fieldwork
 categories:
   - Updates
-excerpt: "A trip into the Washakie Wilderness to document a 133-year-old survey tree before it's gone."
+excerpt: "A trip into the Washakie Wilderness to document a 133-year-old inscription before it's lost."
 layout: single
 ---
 
