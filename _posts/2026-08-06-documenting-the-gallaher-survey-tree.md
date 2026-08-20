@@ -43,10 +43,10 @@ The ride in was eighteen miles, one long stretch in the saddle with just a singl
   <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p6-river-crossing.jpg" alt="Crossing a river on the ride in" style="width:100%; border-radius:6px;">
   </div>
-  <div style="flex:1; min-width:200px;">
+  <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p7-mountain-view-from-trail.jpg" alt="Passing the waterfall on the other side" style="width:100%; border-radius:6px;">
   </div>
-    <div style="flex:1; min-width:200px;">
+    <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p77-mountain-view-from-trail.jpg" alt="Passing flat terrain" style="width:100%; border-radius:6px;">
   </div>
 </div>
