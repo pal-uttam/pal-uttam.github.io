@@ -18,9 +18,9 @@ layout: single
 
 In early October 1893, a survey crew was deep in the mountains of what is now the Shoshone National Forest, mapping the boundary of the country's first protected forest. A snowstorm caught them and would not let up for days. Stuck in a meadow near Younts Creek with nothing to do but wait, they carved their names into the trees around their camp. One of those carvings is dated October 3, 1893. About 133 years later, those trees are still standing in one of the most remote corners of the lower 48, an area known as the Thorofare, though old age and the beetles that have worked through this forest are slowly taking them apart. Our job was to reach the site and record the inscribed trees with 3D laser scanning before they are gone for good. What I did not expect was that getting to them would turn into one of the hardest and most memorable trips of my life.
 
-<div style="display:flex; gap:4px; margin: 1.5em 0; flex-wrap:wrap;">
+<div style="display:flex; gap:10px; margin: 1.5em 0; flex-wrap:wrap;">
   <div style="flex:1; min-width:200px;">
-    <img src="/images/posts/gallaher-survey-tree-2026/p1-tree-inscription-closeup.jpg" alt="Scanning the 1893 inscription with the Topcon GLS-2000" style="width:70%; border-radius:6px;">
+    <img src="/images/posts/gallaher-survey-tree-2026/p1-tree-inscription-closeup.jpg" alt="Scanning the 1893 inscription with the Topcon GLS-2000" style="width:60%; border-radius:6px;">
   </div>
   <div style="flex:1; min-width:200px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p2-tree-wide-in-meadow.jpg" alt="The survey tree in its setting near Younts Creek (Lawrence Todd/Courtesy)" style="width:85%; border-radius:6px;">
@@ -33,7 +33,7 @@ We had tried to make this trip once already, back in July. We made it as far as 
 We left Laramie on August 6 and drove up to Cody, where we spent the night before heading out early the next morning. The team going in was my advisor Dr. Charlie Zhang, my colleague Saksham Timalsina, and me, along with Marcia Peterson, the Assistant Wyoming State Archaeologist, who joined us at the trailhead to help document the site properly given its historical significance. Taking us in and back out was Lee Livingston of Livingston Outfitting, the outfitter the Park Service had picked for the job, and simply the best in the business at what he does.
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/gallaher-survey-tree-2026/p5-lee-loading-pack-mules.jpg" alt="Packing the mules and getting ready" style="width:90%; border-radius:6px;">
+  <img src="/images/posts/gallaher-survey-tree-2026/p5-lee-loading-pack-mules.jpg" alt="Packing the mules and getting ready" style="width:100%; border-radius:6px;">
   <p style="font-size:0.9em; color:#666; text-align:center;">Packing the mules and getting ready.</p>
 </div>
 
@@ -65,10 +65,10 @@ The real work came on August 8, when we left camp at eight and rode about five m
   <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p11-lee-leading-pack-line.jpg" alt="Heading toward the tree location, Lee leading the way uphill" style="width:100%; display:block; margin:0 auto; border-radius:6px;">
   </div>
-  <div style="flex:1; min-width:200px;">
+  <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p10-dense-jungle.jpg" alt="Going through dense timber on the trail" style="width:100%; border-radius:6px;">
   </div>
-    <div style="flex:1; min-width:200px;">
+    <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p100dense-jungle.jpg" alt="Going through steep terrain" style="width:100%; border-radius:6px;">
   </div>
 </div>
@@ -93,7 +93,7 @@ We reached the site around 11:30 and started scanning by noon. On paper the tree
 <p style="font-size:0.9em; color:#666; text-align:center;">The four trees at the site.</p>
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/gallaher-survey-tree-2026/p144-team-scanning-site.jpg" alt="The team scanning the site with LiDAR equipment" style="width:20%; display:block; margin:0 auto; border-radius:6px;">
+  <img src="/images/posts/gallaher-survey-tree-2026/p144-team-scanning-site.jpg" alt="The team scanning the site with LiDAR equipment" style="width:30%; display:block; margin:0 auto; border-radius:6px;">
   <p style="font-size:0.9em; color:#666; text-align:center;">The team at work scanning the site (Left: Saksham, Center: Dr. Charlie, Right: Myself).</p>
 </div>
 
@@ -103,10 +103,10 @@ The next morning we headed out. Lee stayed behind at camp, and his daughter Alex
   <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p16-alex-leading-ride-out.jpg" alt="Alex leading the ride out to the trailhead" style="width:100%; border-radius:6px;">
   </div>
-  <div style="flex:1; min-width:200px;">
+  <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p166-alex-leading-ride-out.jpg" alt="Passing the rocky train" style="width:100%; border-radius:6px;">
   </div>
-    <div style="flex:1; min-width:200px;">
+    <div style="flex:1; min-width:150px;">
     <img src="/images/posts/gallaher-survey-tree-2026/p167-alex-leading-ride-out.jpg" alt="Final photo of the returning company at the trailhead" style="width:100%; border-radius:6px;">
   </div>
 </div>
