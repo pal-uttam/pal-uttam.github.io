@@ -1,6 +1,6 @@
 ---
 title: "Documenting a 133-Year-Old Carving in the Thorofare"
-date: 2026-08-06
+date: 2026-08-11
 permalink: /posts/gallaher-survey-tree-2026/
 tags:
   - Shoshone National Forest
