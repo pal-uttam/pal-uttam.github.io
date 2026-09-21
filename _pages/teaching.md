@@ -10,27 +10,19 @@ title: "Teaching Experience and Coursework"
 
 # Teaching Experience
 
-## Teaching Assistant (Upcoming) – CM 2000  
+## Teaching Assistant – CM 2000  
 University of Wyoming  
-*Fall 2026*  
+*Fall 2025 and Fall 2026*  
 
-Selected to support instruction in an undergraduate Construction Management course, assisting with course delivery, student guidance, and evaluation activities.
+Supported instruction in an undergraduate Construction Management course across two semesters, assisting with course delivery, student guidance, and evaluation activities, including grading, course material preparation, and administering assignments and quizzes through Canvas.
 
 ---
 
 ## Engineering Drawing (Undergraduate Level)  
 Institute of Engineering, Pulchowk Campus, Tribhuvan University, Nepal  
-*Winter 2020 (One-Month Instructional Session)*  
+*Winter 2020*  
 
 Provided supplemental instruction to first-year civil engineering students, covering technical drawing principles, geometric construction, and projection techniques.
-
-**Key Contributions and Learning Outcomes:**
-
-- Communicated technical concepts clearly to students with varying levels of preparation  
-- Simplified spatial visualization and geometric interpretation challenges  
-- Developed classroom management and student engagement skills  
-- Identified and addressed common learning difficulties among first-year students  
-- Strengthened instructional planning and content delivery approaches  
 
 ---
 

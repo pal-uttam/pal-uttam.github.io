@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. Candidate of Civil Engineering (Construction Management) at the University of Wyoming and a researcher in the Construction Research and Innovation Lab, advised by Dr. Charlie Zhang. My research is broadly oriented toward construction safety and infrastructure resilience.
 
-Before beginning my doctoral studies, I worked as a municipal civil engineer and in private construction firms, contributing to planning, scheduling, and inspection on projects totaling approximately $50 million (across multiple projects). I also worked as a Project Engineer Intern in the United States, supporting cost-loaded scheduling, pay applications, and project documentation. My industry interests include heavy construction operations, equipment productivity analysis, and construction planning methods.
+Before beginning my doctoral studies, I worked as a municipal civil engineer in Nepal, contributing to planning, cost estimation, and scheduling for municipal projects, and as a site engineer at a private construction firm, preparing bills of quantities and supervising daily site operations. I also worked as a Project Engineer Intern in the United States, supporting baseline scheduling, cost-loaded schedules, pay applications, and project documentation. My industry interests include heavy construction operations, equipment productivity analysis, and construction planning methods.
 
 ---
 
@@ -46,12 +46,13 @@ Before beginning my doctoral studies, I worked as a municipal civil engineer and
 
 ---
 ## Research Interests
-My research interests lie at the intersection of construction engineering, human factors, and infrastructure resilience. Broad thematic areas include:
+My research interests sit at the intersection of construction engineering, human factors, energy infrastructure safety, and digital reconstruction technologies. Broad areas include::
 - Human factors and cognitive ergonomics in construction  
-- Construction safety and risk assessment  
+- Construction safety and risk assessment 
+- Worker interaction with automation and wearable safety technology
 - Energy and infrastructure resilience  
-- Data-driven modeling for safety and performance improvement  
-- Integration of emerging technologies in construction research
+- 3D reality capture using LiDAR and photogrammetry  
+- Digital twins built from 3D Gaussian Splatting
 
 ---
 
