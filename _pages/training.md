@@ -50,7 +50,7 @@ Participated in an NSF-funded cybertraining program focused on cyber-physical sy
 ---
 
 ### AI Unlocked: Empowering Higher Education Through Research and Discovery  
-National Artificial Intelligence Research Resource (NAIRR) Pilot User Experience Working Group
+National Artificial Intelligence Research Resource (NAIRR) Pilot User Experience Working Group  
 Denver, Colorado, April 2025  
 
 Participated in a professional development workshop focused on:
