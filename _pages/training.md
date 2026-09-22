@@ -35,18 +35,6 @@ State of Wyoming
 
 ## Professional Training
 
-### AI Unlocked: Empowering Higher Education Through Research and Discovery  
-National Artificial Intelligence Research Resource (NAIRR)  
-Denver, Colorado, April 2025  
-
-Participated in a professional development workshop focused on:
-
-- Responsible and effective use of artificial intelligence in academic research  
-- Customization of AI tools for discipline-specific applications  
-- Integration of high-performance computing (HPC) resources  
-- Interdisciplinary collaboration and scalable research infrastructure  
-
----
 
 ### NSF/MSU ConstructionCI CyberTraining Program  
 National Science Foundation (NSF) / Mississippi State University  
@@ -59,6 +47,18 @@ Participated in an NSF-funded cybertraining program focused on cyber-physical sy
 - Robotics for construction operations  
 - Cybersecurity in construction and infrastructure systems
 
+---
+
+### AI Unlocked: Empowering Higher Education Through Research and Discovery  
+National Artificial Intelligence Research Resource (NAIRR) Pilot User Experience Working Group, University of Colorado
+Denver, Colorado, April 2025  
+
+Participated in a professional development workshop focused on:
+
+- Responsible and effective use of artificial intelligence in academic research  
+- Customization of AI tools for discipline-specific applications  
+- Integration of high-performance computing (HPC) resources  
+- Interdisciplinary collaboration and scalable research infrastructure  
 
 
 ## Academic Service
