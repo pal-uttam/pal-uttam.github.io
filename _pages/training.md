@@ -7,10 +7,11 @@ title: "Certifications / Professional Development"
 
 ## Certifications & Licenses
 
-**Registered Civil Engineer (Civil “A” Category)**  
-Nepal Engineering Council  
-License No. 28369  
-Issued 2021  
+**Certified Scheduling Technician (CST)**  
+AACE International Certification Institute  
+Certificate No. CST-377  
+Issued 2026 (valid through 2030)  
+[Verify in the AACE Certified Directory](https://web.aacei.org/certification/certified-directory-search){:target="_blank"}  
 
 ---
 
@@ -28,8 +29,23 @@ Issued 2025
 
 ---
 
-**U.S. Driver’s License**  
-State of Wyoming 
+**Registered Civil Engineer (Civil “A” Category)**  
+Nepal Engineering Council  
+License No. 28369  
+Issued 2021  
+
+---
+
+**Construction Bootcamp**  
+Procore Technologies  
+Issued 2026  
+
+---
+
+**Social/Behavioral Research Course**  
+Collaborative Institutional Training Initiative (CITI Program)  
+Credential ID 75323074  
+Issued 2026 (expires 2028)  
 
 ---
 
@@ -60,6 +76,15 @@ Participated in a professional development workshop focused on:
 - Integration of high-performance computing (HPC) resources  
 - Interdisciplinary collaboration and scalable research infrastructure  
 
+---
+
+### Project Planning, Scheduling and Delay Analysis (MS Project and Primavera P6)  
+Sparrow Technosoft  
+Kathmandu, Nepal, May 2021  
+
+Completed a two-week training covering the basics of Primavera P6 and Microsoft Project, including schedule setup, layouts, and reporting.
+
+---
 
 ## Academic Service
 
@@ -67,8 +92,10 @@ Participated in a professional development workshop focused on:
 
 Serve as a reviewer for journals and international conferences in construction engineering, infrastructure systems, and interdisciplinary research:
 
-- *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (ASCE): <u>12 manuscripts</u> 
-- *Journal of Engineering, Design and Technology* (Emerald Publishing): <u>9 manuscripts</u> 
+- *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (ASCE): <u>13 manuscripts</u> 
+- *Journal of Engineering, Design and Technology* (Emerald Publishing): <u>10 manuscripts</u> 
 - *Frontiers in Built Environment*: <u>3 manuscripts</u>
-- *Frontiers in Artificial Intelligence*: <u>1 manuscripts</u>
-- Sixth European Structural Engineering and Construction Conference: <u>2 manuscripts</u> 
+- *Frontiers in Artificial Intelligence*: <u>1 manuscript</u>
+- *Frontiers in Nuclear Engineering*: <u>4 manuscripts</u>
+- *Frontiers in Marine Science*: <u>1 manuscript</u>
+- Sixth European Structural Engineering and Construction Conference: <u>3 manuscripts</u> 
