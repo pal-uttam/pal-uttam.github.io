@@ -12,6 +12,7 @@ redirect_from:
 I am a Ph.D. Candidate of Civil Engineering (Construction Management) at the University of Wyoming and a researcher in the Construction Research and Innovation Lab, advised by Dr. Charlie Zhang. My research is broadly oriented toward construction safety and infrastructure resilience.
 
 Before beginning my doctoral studies, I worked as a municipal civil engineer in Nepal, contributing to planning, cost estimation, and scheduling for municipal projects, and as a site engineer at a private construction firm, preparing bills of quantities and supervising daily site operations. Since May 2025, I have been working part time as an Assistant Scheduler at DCR Consulting & Engineering, LLC, a construction consulting firm in Laramie, Wyoming. In this role, I build and update schedules in Primavera P6, a project scheduling software, for more than 20 projects of the U.S. Department of Veterans Affairs (VA). My work includes baseline schedules, cost-loaded schedules, monthly updates based on project manager progress reports and pay applications, time impact analyses, and project documentation. I hold the Certified Scheduling Technician (CST) credential from AACE International. Alongside my research in construction safety, my industry interests are in project planning, scheduling, and controls.
+
 ---
 
 ## My Journey
