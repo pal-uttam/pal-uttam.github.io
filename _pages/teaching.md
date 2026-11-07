@@ -12,9 +12,9 @@ title: "Teaching Experience and Coursework"
 
 ## Teaching Assistant – CM 2000  
 University of Wyoming  
-*Fall 2025 and Fall 2026*  
+*Fall 2026*  
 
-Supported instruction in an undergraduate Construction Management course across two semesters, assisting with course delivery, student guidance, and evaluation activities, including grading, course material preparation, and administering assignments and quizzes through Canvas.
+Supported instruction in an undergraduate Construction Management course, assisting with course delivery, student guidance, and evaluation activities, including grading, course material preparation, and administering assignments and quizzes through Canvas.
 
 ---
 
