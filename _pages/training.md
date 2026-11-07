@@ -7,6 +7,13 @@ title: "Certifications / Professional Development"
 
 ## Certifications & Licenses
 
+**Project Management Professional (PMP)®**  
+Project Management Institute (PMI)  
+Issued 2026  
+[Verify credential on Credly](https://www.credly.com/badges/b2fff8c9-1463-4765-9b66-6ce9bdcdd4e1){:target="_blank"}  
+
+---
+
 **Certified Scheduling Technician (CST)**  
 AACE International Certification Institute  
 Certificate No. CST-377  
