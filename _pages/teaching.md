@@ -10,7 +10,7 @@ title: "Teaching Experience and Coursework"
 
 # Teaching Experience
 
-## Teaching Assistant – CM 2000  
+## Teaching Assistant, Intro to Construction Management  
 University of Wyoming  
 *Fall 2026*  
 
